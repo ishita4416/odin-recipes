@@ -23,3 +23,8 @@ div h2{
 .ingredients, .ingredients li{
     background-color: aquamarine;
 }
+
+img{
+    width: 500px;
+    height: auto
+}
