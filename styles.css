@@ -28,3 +28,7 @@ img{
     width: 500px;
     height: auto
 }
+
+.main-list, .main-list li, .main-list li a{
+    background-color: aquamarine;
+}
